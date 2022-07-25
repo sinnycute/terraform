@@ -1,0 +1,1 @@
+terraform-20220724105618194700000001.cd9tfctbhqab.ap-south-1.rds.amazonaws.com:3306 
